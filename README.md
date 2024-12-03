@@ -2,8 +2,8 @@
 
 | Dia  | Desafio                                                   | Recursos                                           | Status  |
 |------|-----------------------------------------------------------|----------------------------------------------------|--------|
-| 1    | Escreva um programa Java que imprima "Hello, World!" no console. | Conceitos básicos de Java, saída no console.|Concluído✅  |
-| 2    | Declare uma variável em Java, atribua um número a ela e imprima no console. | Declaração de variáveis em Java. |        |
+| 1    | Escreva um programa Java que imprima "Hello, World!" no console. | Conceitos básicos de Java, saída no console. |Concluído✅  |
+| 2    | Declare uma variável em Java, atribua um número a ela e imprima no console. | Declaração de variáveis em Java. |Concluído✅  |
 | 3    | Crie um programa Java que leia dois números do usuário, calcule a soma e imprima o resultado. | Entrada do usuário em Java, operações matemáticas. |        |
 | 4    | Escreva um programa Java que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em Java. |        |
 | 5    | Crie um método em Java para calcular o fatorial de um número usando um loop for. | Laços de repetição (for) em Java. |        |

@@ -8,7 +8,7 @@
 | 4    | Escreva um programa Java que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em Java. |Concluído✅  |
 | 5    | Crie um método em Java para calcular o fatorial de um número usando um loop for. | Laços de repetição (for) em Java. |Concluído✅  |
 | 6    | Implemente um programa Java para verificar se um número é um número primo usando um loop for. | Algoritmos de verificação em Java. |Concluído✅  |
-| 7    | Escreva um programa Java que inverta uma string. | Manipulação de strings em Java. |        |
+| 7    | Escreva um programa Java que inverta uma string. | Manipulação de strings em Java. |Concluído✅  |
 | 8    | Crie uma classe em Java para representar uma calculadora básica com soma, subtração, multiplicação e divisão. | POO (Programação Orientada a Objetos) em Java. |        |
 | 9    | Implemente um programa Java que ordene um array de números usando um loop for. | Algoritmos de ordenação em Java. |        |
 | 10   | Escreva um programa Java que converta uma temperatura de Celsius para Fahrenheit e vice-versa. | Conversão de unidades em Java. |        |

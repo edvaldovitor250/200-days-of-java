@@ -12,7 +12,7 @@
 | 8    | Crie uma classe em Java para representar uma calculadora básica com soma, subtração, multiplicação e divisão. | POO (Programação Orientada a Objetos) em Java. |Concluído✅  |
 | 9    | Implemente um programa Java que ordene um array de números usando um loop for. | Algoritmos de ordenação em Java. |Concluído✅  |
 | 10   | Escreva um programa Java que converta uma temperatura de Celsius para Fahrenheit e vice-versa. | Conversão de unidades em Java. |Concluído✅  |
-| 11   | Crie um programa Java que use um loop foreach para imprimir todos os elementos de um array. | Uso do loop foreach em Java. |        |
+| 11   | Crie um programa Java que use um loop foreach para imprimir todos os elementos de um array. | Uso do loop foreach em Java. |Concluído✅  |
 | 12   | Escreva um programa Java que calcule a soma de todos os elementos de um array usando foreach. | Operações matemáticas com loops em Java. |        |
 | 13   | Implemente um programa Java que divida dois números e trate exceções usando try/catch. | Tratamento de exceções em Java. |        |
 | 14   | Crie um programa Java que leia um número do usuário e use um try/catch para validar a entrada. | Validação de entrada em Java. |        |

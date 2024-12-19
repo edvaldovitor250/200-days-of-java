@@ -17,7 +17,7 @@
 | 13   | Implemente um programa Java que divida dois números e trate exceções usando try/catch. | Tratamento de exceções em Java. |Concluído✅  |
 | 14   | Crie um programa Java que leia um número do usuário e use um try/catch para validar a entrada. | Validação de entrada em Java. |Concluído✅  |
 | 15   | Escreva um programa Java que simule um jogo de dados (dado de 6 faces) com lançamentos e contagem de pontos. | Geração de números aleatórios em Java. |Concluído✅  |
-| 16   | Crie uma classe em Java para representar um sistema de gerenciamento de estoque com operações de adicionar, remover e atualizar itens. | POO em Java. |        |
+| 16   | Crie uma classe em Java para representar um sistema de gerenciamento de estoque com operações de adicionar, remover e atualizar itens. | POO em Java. |Concluído✅  |
 | 17   | Implemente um programa Java que calcule a média de uma lista de números usando foreach. | Operações matemáticas com listas em Java. |        |
 | 18   | Escreva um programa Java que verifique se uma string é um palíndromo. | Manipulação de strings em Java. |        |
 | 19   | Crie um programa Java que use um loop for para gerar os primeiros N números da sequência de Fibonacci. | Algoritmos matemáticos em Java. |        |

@@ -20,7 +20,7 @@
 | 16   | Crie uma classe em Java para representar um sistema de gerenciamento de estoque com operações de adicionar, remover e atualizar itens. | POO em Java. |Concluído✅  |
 | 17   | Implemente um programa Java que calcule a média de uma lista de números usando foreach. | Operações matemáticas com listas em Java. |Concluído✅  |
 | 18   | Escreva um programa Java que verifique se uma string é um palíndromo. | Manipulação de strings em Java. |Concluído✅  |
-| 19   | Crie um programa Java que use um loop for para gerar os primeiros N números da sequência de Fibonacci. | Algoritmos matemáticos em Java. |        |
+| 19   | Crie um programa Java que use um loop for para gerar os primeiros N números da sequência de Fibonacci. | Algoritmos matemáticos em Java.|Concluído✅  |
 | 20   | Escreva um programa Java que leia números do usuário e armazene em um array. Use try/catch para capturar entradas inválidas. | Entrada do usuário e validação em Java. |        |
 | 21   | Crie um programa Java que ordene uma lista de strings alfabeticamente usando loops. | Manipulação de listas em Java. |        |
 | 22   | Implemente um programa Java que encontre o maior elemento em um array usando um loop for. | Laços e arrays em Java. |        |

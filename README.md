@@ -24,7 +24,7 @@
 | 20   | Escreva um programa Java que leia números do usuário e armazene em um array. Use try/catch para capturar entradas inválidas. | Entrada do usuário e validação em Java. |Concluído✅  |
 | 21   | Crie um programa Java que ordene uma lista de strings alfabeticamente usando loops. | Manipulação de listas em Java. |Concluído✅  |
 | 22   | Implemente um programa Java que encontre o maior elemento em um array usando um loop for. | Laços e arrays em Java. |Concluído✅  |
-| 23   | Escreva um programa Java que encontre o menor elemento em um array usando foreach. | Laços foreach em Java. |        |
+| 23   | Escreva um programa Java que encontre o menor elemento em um array usando foreach. | Laços foreach em Java. |Concluído✅  |
 | 24   | Crie um método em Java para calcular a potência de um número usando um loop for. | Algoritmos matemáticos em Java. |        |
 | 25   | Implemente um programa Java que leia números do usuário até que ele digite "sair" e trate exceções usando try/catch. | Tratamento de exceções em entrada do usuário. |        |
 | 26   | Escreva um programa Java que gere um array de números aleatórios e calcule a soma de todos os elementos. | Geração de números aleatórios em Java. |        |

@@ -25,8 +25,8 @@
 | 21   | Crie um programa Java que ordene uma lista de strings alfabeticamente usando loops. | Manipulação de listas em Java. |Concluído✅  |
 | 22   | Implemente um programa Java que encontre o maior elemento em um array usando um loop for. | Laços e arrays em Java. |Concluído✅  |
 | 23   | Escreva um programa Java que encontre o menor elemento em um array usando foreach. | Laços foreach em Java. |Concluído✅  |
-| 24   | Crie um método em Java para calcular a potência de um número usando um loop for. | Algoritmos matemáticos em Java. |        |
-| 25   | Implemente um programa Java que leia números do usuário até que ele digite "sair" e trate exceções usando try/catch. | Tratamento de exceções em entrada do usuário. |        |
+| 24   | Crie um método em Java para calcular a potência de um número usando um loop for. | Algoritmos matemáticos em Java. |Concluído✅  |
+| 25   | Implemente um programa Java que leia números do usuário até que ele digite "sair" e trate exceções usando try/catch. | Tratamento de exceções em entrada do usuário. |Concluído✅  |
 | 26   | Escreva um programa Java que gere um array de números aleatórios e calcule a soma de todos os elementos. | Geração de números aleatórios em Java. |        |
 | 27   | Crie uma classe em Java para representar um sistema de gerenciamento de vendas com operações de adicionar, remover e listar vendas. | POO em Java. |        |
 | 28   | Implemente um programa Java que use try/catch para abrir um arquivo e ler seu conteúdo. | Manipulação de arquivos em Java. |        |

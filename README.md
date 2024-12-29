@@ -28,7 +28,7 @@
 | 24   | Crie um método em Java para calcular a potência de um número usando um loop for. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 25   | Implemente um programa Java que leia números do usuário até que ele digite "sair" e trate exceções usando try/catch. | Tratamento de exceções em entrada do usuário. |Concluído✅  |
 | 26   | Escreva um programa Java que gere um array de números aleatórios e calcule a soma de todos os elementos. | Geração de números aleatórios em Java. |Concluído✅  |
-| 27   | Crie uma classe em Java para representar um sistema de gerenciamento de vendas com operações de adicionar, remover e listar vendas. | POO em Java. |        |
+| 27   | Crie uma classe em Java para representar um sistema de gerenciamento de vendas com operações de adicionar, remover e listar vendas. | POO em Java. |Concluído✅  |
 | 28   | Implemente um programa Java que use try/catch para abrir um arquivo e ler seu conteúdo. | Manipulação de arquivos em Java. |        |
 | 29   | Escreva um programa Java que leia uma matriz do usuário e imprima sua transposta. | Manipulação de matrizes em Java. |        |
 | 30   | Crie um programa Java que implemente uma fila usando um array. Use for e foreach para manipulação. | Estruturas de dados em Java. |        |

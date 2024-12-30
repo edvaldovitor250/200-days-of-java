@@ -30,7 +30,7 @@
 | 26   | Escreva um programa Java que gere um array de números aleatórios e calcule a soma de todos os elementos. | Geração de números aleatórios em Java. |Concluído✅  |
 | 27   | Crie uma classe em Java para representar um sistema de gerenciamento de vendas com operações de adicionar, remover e listar vendas. | POO em Java. |Concluído✅  |
 | 28   | Implemente um programa Java que use try/catch para abrir um arquivo e ler seu conteúdo. | Manipulação de arquivos em Java. |Concluído✅  |
-| 29   | Escreva um programa Java que leia uma matriz do usuário e imprima sua transposta. | Manipulação de matrizes em Java. |        |
+| 29   | Escreva um programa Java que leia uma matriz do usuário e imprima sua transposta. | Manipulação de matrizes em Java. |Concluído✅  |
 | 30   | Crie um programa Java que implemente uma fila usando um array. Use for e foreach para manipulação. | Estruturas de dados em Java. |        |
 | 31   | Implemente um programa Java que encontre o segundo maior número em um array usando for. | Algoritmos em Java. |        |
 | 32   | Escreva um programa Java que encontre o número mais frequente em um array. | Manipulação de arrays em Java. |        |

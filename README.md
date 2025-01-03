@@ -33,7 +33,7 @@
 | 29   | Escreva um programa Java que leia uma matriz do usuário e imprima sua transposta. | Manipulação de matrizes em Java. |Concluído✅  |
 | 30   | Crie um programa Java que implemente uma fila usando um array. Use for e foreach para manipulação. | Estruturas de dados em Java. |Concluído✅  |
 | 31   | Implemente um programa Java que encontre o segundo maior número em um array usando for. | Algoritmos em Java.  |Concluído✅  |
-| 32   | Escreva um programa Java que encontre o número mais frequente em um array. | Manipulação de arrays em Java. |        |
+| 32   | Escreva um programa Java que encontre o número mais frequente em um array. | Manipulação de arrays em Java. |Concluído✅  |
 | 33   | Crie um programa Java que imprima o padrão de estrelas (triângulo) usando loops for. | Algoritmos com loops em Java. |        |
 | 34   | Implemente um programa Java que leia números do usuário e calcule o maior divisor comum (MDC) entre eles. | Algoritmos matemáticos em Java. |        |
 | 35   | Escreva um programa Java que leia nomes de uma lista e os imprima em ordem inversa usando um loop foreach. | Laços foreach em Java. |        |

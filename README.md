@@ -37,7 +37,7 @@
 | 33   | Crie um programa Java que imprima o padrão de estrelas (triângulo) usando loops for. | Algoritmos com loops em Java.|Concluído✅  |
 | 34   | Implemente um programa Java que leia números do usuário e calcule o maior divisor comum (MDC) entre eles. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 35   | Escreva um programa Java que leia nomes de uma lista e os imprima em ordem inversa usando um loop foreach. | Laços foreach em Java. |Concluído✅  |
-| 36   | Crie um programa Java que leia uma lista de números e remova todos os duplicados. | Manipulação de listas em Java. |        |
+| 36   | Crie um programa Java que leia uma lista de números e remova todos os duplicados. | Manipulação de listas em Java. |Concluído✅  |
 | 37   | Implemente um programa Java que leia uma lista de strings e conte quantas palavras têm mais de 5 caracteres. | Manipulação de strings em Java. |        |
 | 38   | Escreva um programa Java que leia notas de alunos, calcule a média e determine se o aluno foi aprovado. | Estruturas condicionais em Java. |        |
 | 39   | Crie um programa Java que implemente uma pilha (stack) usando um array. Use try/catch para tratar erros de overflow/underflow. | Estruturas de dados em Java. |        |

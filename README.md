@@ -44,7 +44,7 @@
 | 40   | Implemente um programa Java que calcule a soma dos números de 1 a N usando um loop for. | Laços em Java. |Concluído✅  |
 | 41   | Escreva um programa Java que gere a tabela de multiplicação de 1 a 10 usando loops for. | Algoritmos com loops em Java.|Concluído✅  |
 | 42   | Crie um programa Java que leia uma string e conte o número de caracteres, palavras e linhas. | Manipulação de strings em Java.  |Concluído✅  |
-| 43   | Implemente um programa Java que leia um número e calcule sua raiz quadrada. Use try/catch para tratar entradas inválidas. | Tratamento de exceções em Java. |        |
+| 43   | Implemente um programa Java que leia um número e calcule sua raiz quadrada. Use try/catch para tratar entradas inválidas. | Tratamento de exceções em Java. |Concluído✅  |
 | 44   | Escreva um programa Java que leia um número decimal e o converta para binário. | Algoritmos de conversão em Java. |        |
 | 45   | Crie um programa Java que leia um array de números e imprima apenas os números pares. | Estruturas condicionais e loops em Java. |        |
 | 46   | Implemente um programa Java que leia um array de números e imprima a soma dos números ímpares. | Algoritmos matemáticos em Java. |        |

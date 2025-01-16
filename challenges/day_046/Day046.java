@@ -1,6 +1,5 @@
 
-public class Day044 {
-
+public class Day046 {
     public static void main(String[] args) {
         System.out.println(numerosPares(10));
     }

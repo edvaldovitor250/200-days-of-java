@@ -49,7 +49,7 @@
 | 45   | Crie um programa Java que leia um array de números e imprima apenas os números pares. | Estruturas condicionais e loops em Java. |Concluído✅  |
 | 46   | Implemente um programa Java que leia um array de números e imprima a soma dos números ímpares. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 47   | Escreva um programa Java que leia um texto e conte quantas vezes uma palavra específica aparece. | Manipulação de strings em Java. |Concluído✅  |
-| 48   | Crie um programa Java que leia um array de strings e imprima todas as strings que começam com uma letra específica. | Estruturas condicionais em Java. |        |
+| 48   | Crie um programa Java que leia um array de strings e imprima todas as strings que começam com uma letra específica. | Estruturas condicionais em Java. |Concluído✅  |
 | 49   | Implemente um programa Java que encontre todos os números perfeitos em um intervalo dado. | Algoritmos matemáticos em Java. |        |
 | 50   | Escreva um programa Java que leia uma matriz e imprima a soma de cada linha. | Manipulação de matrizes em Java. |        |
 | 51   | Crie um programa Java que leia uma matriz e imprima a soma de cada coluna. | Manipulação de matrizes em Java. |        |

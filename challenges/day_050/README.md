@@ -8,7 +8,7 @@ Escreva um programa Java que leia uma matriz e imprima a soma de cada linha.
 
 ```java
 
-public class Day049 {
+public class Day050 {
 
    
     public static void main(String[] args) {

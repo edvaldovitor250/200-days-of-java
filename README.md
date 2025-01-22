@@ -52,7 +52,7 @@
 | 48   | Crie um programa Java que leia um array de strings e imprima todas as strings que começam com uma letra específica. | Estruturas condicionais em Java. |Concluído✅  |
 | 49   | Implemente um programa Java que encontre todos os números perfeitos em um intervalo dado. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 50   | Escreva um programa Java que leia uma matriz e imprima a soma de cada linha. | Manipulação de matrizes em Java. |Concluído✅  |
-| 51   | Crie um programa Java que leia uma matriz e imprima a soma de cada coluna. | Manipulação de matrizes em Java. |        |
+| 51   | Crie um programa Java que leia uma matriz e imprima a soma de cada coluna. | Manipulação de matrizes em Java. |Concluído✅  |
 | 52   | Implemente um programa Java que calcule o número de combinações possíveis de N elementos escolhidos K a K. | Algoritmos matemáticos em Java. |        |
 | 53   | Escreva um programa Java que leia um array de números e inverta a ordem dos elementos. | Manipulação de arrays em Java. |        |
 | 54   | Crie um programa Java que implemente uma busca binária em um array ordenado. | Algoritmos de busca em Java. |        |

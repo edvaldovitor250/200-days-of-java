@@ -56,7 +56,7 @@
 | 52   | Implemente um programa Java que calcule o número de combinações possíveis de N elementos escolhidos K a K. | Algoritmos matemáticos em Java.  |Concluído✅  |
 | 53   | Escreva um programa Java que leia um array de números e inverta a ordem dos elementos. | Manipulação de arrays em Java. |Concluído✅  |
 | 54   | Crie um programa Java que implemente uma busca binária em um array ordenado. | Algoritmos de busca em Java. |Concluído✅  |
-| 55   | Implemente um programa Java que leia um texto e substitua todas as ocorrências de uma palavra por outra. | Manipulação de strings em Java. |        |
+| 55   | Implemente um programa Java que leia um texto e substitua todas as ocorrências de uma palavra por outra. | Manipulação de strings em Java. |Concluído✅  |
 | 56   | Escreva um programa Java que leia um número inteiro e determine se ele é um número palíndromo. | Algoritmos matemáticos em Java. |        |
 | 57   | Crie um programa Java que leia um array e encontre o elemento mais frequente. | Estruturas de dados em Java. |        |
 | 58   | Implemente um programa Java que gere números aleatórios entre 1 e 100 e os armazene em um arquivo. | Manipulação de arquivos em Java. |        |

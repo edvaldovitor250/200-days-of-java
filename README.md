@@ -58,7 +58,7 @@
 | 54   | Crie um programa Java que implemente uma busca binária em um array ordenado. | Algoritmos de busca em Java. |Concluído✅  |
 | 55   | Implemente um programa Java que leia um texto e substitua todas as ocorrências de uma palavra por outra. | Manipulação de strings em Java. |Concluído✅  |
 | 56   | Escreva um programa Java que leia um número inteiro e determine se ele é um número palíndromo. | Algoritmos matemáticos em Java. |Concluído✅  |
-| 57   | Crie um programa Java que leia um array e encontre o elemento mais frequente. | Estruturas de dados em Java. |        |
+| 57   | Crie um programa Java que leia um array e encontre o elemento mais frequente. | Estruturas de dados em Java. |Concluído✅  |
 | 58   | Implemente um programa Java que gere números aleatórios entre 1 e 100 e os armazene em um arquivo. | Manipulação de arquivos em Java. |        |
 | 59   | Escreva um programa Java que leia os números de um arquivo e calcule a média. | Manipulação de arquivos em Java. |        |
 | 60   | Crie um programa Java que leia um array de números e imprima apenas os números primos. | Algoritmos de verificação em Java. |        |

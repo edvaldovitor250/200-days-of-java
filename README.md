@@ -61,7 +61,7 @@
 | 57   | Crie um programa Java que leia um array e encontre o elemento mais frequente. | Estruturas de dados em Java. |Concluído✅  |
 | 58   | Implemente um programa Java que gere números aleatórios entre 1 e 100 e os armazene em um arquivo. | Manipulação de arquivos em Java. |Concluído✅  |
 | 59   | Escreva um programa Java que leia os números de um arquivo e calcule a média. | Manipulação de arquivos em Java. |Concluído✅  |
-| 60   | Crie um programa Java que leia um array de números e imprima apenas os números primos. | Algoritmos de verificação em Java. |        |
+| 60   | Crie um programa Java que leia um array de números e imprima apenas os números primos. | Algoritmos de verificação em Java. |Concluído✅  |
 | 61   | Implemente um programa Java que leia uma lista de nomes e os organize em ordem alfabética. | Manipulação de listas em Java. |        |
 | 62   | Escreva um programa Java que leia uma matriz e calcule o produto dos elementos de cada linha. | Manipulação de matrizes em Java. |        |
 | 63   | Crie um programa Java que leia um número e calcule sua representação em números romanos. | Algoritmos de conversão em Java. |        |

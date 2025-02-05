@@ -66,7 +66,7 @@
 | 62   | Escreva um programa Java que leia uma matriz e calcule o produto dos elementos de cada linha. | Manipulação de matrizes em Java. |Concluído✅  |
 | 63   | Crie um programa Java que leia um número e calcule sua representação em números romanos. | Algoritmos de conversão em Java. |Concluído✅  |
 | 64   | Implemente um programa Java que leia um texto e conte o número de caracteres alfabéticos, dígitos e espaços. | Manipulação de strings em Java. |Concluído✅  |
-| 65   | Escreva um programa Java que leia um array de números e encontre o segundo menor elemento. | Algoritmos em Java. |        |
+| 65   | Escreva um programa Java que leia um array de números e encontre o segundo menor elemento. | Algoritmos em Java. |Concluído✅  |
 | 66   | Crie um programa Java que leia um array de strings e remova todas as strings vazias. | Manipulação de arrays em Java. |        |
 | 67   | Implemente um programa Java que leia uma lista de números e calcule o desvio padrão. | Algoritmos matemáticos em Java. |        |
 | 68   | Escreva um programa Java que gere um triângulo de Pascal de tamanho N. | Algoritmos matemáticos em Java. |        |

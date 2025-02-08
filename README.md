@@ -70,7 +70,7 @@
 | 66   | Crie um programa Java que leia um array de strings e remova todas as strings vazias. | Manipulação de arrays em Java. |Concluído✅  |
 | 67   | Implemente um programa Java que leia uma lista de números e calcule o desvio padrão. | Algoritmos matemáticos em Java.  |Concluído✅  |
 | 68   | Escreva um programa Java que gere um triângulo de Pascal de tamanho N. | Algoritmos matemáticos em Java.|Concluído✅  |
-| 69   | Crie um programa Java que leia uma matriz e imprima apenas os elementos acima da diagonal principal. | Manipulação de matrizes em Java. |        |
+| 69   | Crie um programa Java que leia uma matriz e imprima apenas os elementos acima da diagonal principal. | Manipulação de matrizes em Java. |Concluído✅  |
 | 70   | Implemente um programa Java que leia um número e determine se ele é um número perfeito. | Algoritmos matemáticos em Java. |        |
 | 71   | Escreva um programa Java que leia uma lista de palavras e imprima apenas as palavras que são anagramas umas das outras. | Manipulação de strings em Java. |        |
 | 72   | Crie um programa Java que leia um texto e imprima a palavra mais longa. | Manipulação de strings em Java. |        |

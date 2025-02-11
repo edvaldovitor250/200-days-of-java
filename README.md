@@ -73,7 +73,7 @@
 | 69   | Crie um programa Java que leia uma matriz e imprima apenas os elementos acima da diagonal principal. | Manipulação de matrizes em Java. |Concluído✅  |
 | 70   | Implemente um programa Java que leia um número e determine se ele é um número perfeito. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 71   | Escreva um programa Java que leia uma lista de palavras e imprima apenas as palavras que são anagramas umas das outras. | Manipulação de strings em Java. |Concluído✅  |
-| 72   | Crie um programa Java que leia um texto e imprima a palavra mais longa. | Manipulação de strings em Java. |        |
+| 72   | Crie um programa Java que leia um texto e imprima a palavra mais longa. | Manipulação de strings em Java. |Concluído✅  |
 | 73   | Implemente um programa Java que leia um texto e imprima as palavras em ordem reversa. | Manipulação de strings em Java. |        |
 | 74   | Escreva um programa Java que leia uma matriz e calcule a soma de todos os elementos acima da diagonal secundária. | Manipulação de matrizes em Java. |        |
 | 75   | Crie um programa Java que leia um array de números e imprima os pares e ímpares separadamente. | Estruturas condicionais em Java. |        |

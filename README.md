@@ -76,7 +76,7 @@
 | 72   | Crie um programa Java que leia um texto e imprima a palavra mais longa. | Manipulação de strings em Java. |Concluído✅  |
 | 73   | Implemente um programa Java que leia um texto e imprima as palavras em ordem reversa. | Manipulação de strings em Java.|Concluído✅  |
 | 74   | Escreva um programa Java que leia uma matriz e calcule a soma de todos os elementos acima da diagonal secundária. | Manipulação de matrizes em Java. |Concluído✅  |
-| 75   | Crie um programa Java que leia um array de números e imprima os pares e ímpares separadamente. | Estruturas condicionais em Java. |        |
+| 75   | Crie um programa Java que leia um array de números e imprima os pares e ímpares separadamente. | Estruturas condicionais em Java. |Concluído✅  |
 | 76   | Implemente um programa Java que leia um número e calcule a soma dos seus dígitos. | Algoritmos matemáticos em Java. |        |
 | 77   | Escreva um programa Java que leia uma lista de números e imprima o maior e o menor número. | Estruturas condicionais em Java. |        |
 | 78   | Crie um programa Java que leia uma lista de números e remova todos os números negativos. | Manipulação de listas em Java. |        |

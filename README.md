@@ -79,7 +79,7 @@
 | 75   | Crie um programa Java que leia um array de números e imprima os pares e ímpares separadamente. | Estruturas condicionais em Java. |Concluído✅  |
 | 76   | Implemente um programa Java que leia um número e calcule a soma dos seus dígitos. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 77   | Escreva um programa Java que leia uma lista de números e imprima o maior e o menor número. | Estruturas condicionais em Java. |Concluído✅  |
-| 78   | Crie um programa Java que leia uma lista de números e remova todos os números negativos. | Manipulação de listas em Java. |        |
+| 78   | Crie um programa Java que leia uma lista de números e remova todos os números negativos. | Manipulação de listas em Java. |Concluído✅  |
 | 79   | Implemente um programa Java que leia um array de números e calcule a soma dos elementos que estão em posições pares. | Algoritmos matemáticos em Java. |        |
 | 80   | Escreva um programa Java que leia um texto e conte o número de palavras que começam com uma vogal. | Manipulação de strings em Java. |        |
 | 81   | Crie um programa Java que leia um texto e imprima as palavras que aparecem mais de uma vez. | Manipulação de strings em Java. |        |

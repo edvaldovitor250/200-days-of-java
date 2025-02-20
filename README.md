@@ -84,7 +84,7 @@
 | 80   | Escreva um programa Java que leia um texto e conte o número de palavras que começam com uma vogal. | Manipulação de strings em Java. |Concluído✅  |
 | 81   | Crie um programa Java que leia um texto e imprima as palavras que aparecem mais de uma vez. | Manipulação de strings em Java. |Concluído✅  |
 | 82   | Implemente um programa Java que leia uma lista de números e encontre os três maiores números. | Estruturas de dados em Java.  |Concluído✅  |
-| 83   | Escreva um programa Java que leia um texto e imprima o número total de linhas, palavras e caracteres. | Manipulação de strings em Java. |        |
+| 83   | Escreva um programa Java que leia um texto e imprima o número total de linhas, palavras e caracteres. | Manipulação de strings em Java. |Concluído✅  |
 | 84   | Crie um programa Java que leia uma matriz e calcule a soma dos elementos abaixo da diagonal principal. | Manipulação de matrizes em Java. |        |
 | 85   | Implemente um programa Java que leia um array de números e imprima os elementos que aparecem mais de uma vez. | Estruturas de dados em Java. |        |
 | 86   | Escreva um programa Java que leia uma lista de números e calcule a mediana. | Algoritmos matemáticos em Java. |        |

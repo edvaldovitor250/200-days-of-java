@@ -86,7 +86,7 @@
 | 82   | Implemente um programa Java que leia uma lista de números e encontre os três maiores números. | Estruturas de dados em Java.  |Concluído✅  |
 | 83   | Escreva um programa Java que leia um texto e imprima o número total de linhas, palavras e caracteres. | Manipulação de strings em Java. |Concluído✅  |
 | 84   | Crie um programa Java que leia uma matriz e calcule a soma dos elementos abaixo da diagonal principal. | Manipulação de matrizes em Java.|Concluído✅  |
-| 85   | Implemente um programa Java que leia um array de números e imprima os elementos que aparecem mais de uma vez. | Estruturas de dados em Java. |        |
+| 85   | Implemente um programa Java que leia um array de números e imprima os elementos que aparecem mais de uma vez. | Estruturas de dados em Java. |Concluído✅  |
 | 86   | Escreva um programa Java que leia uma lista de números e calcule a mediana. | Algoritmos matemáticos em Java. |        |
 | 87   | Crie um programa Java que leia uma matriz e calcule a soma dos elementos da diagonal principal e da secundária. | Manipulação de matrizes em Java. |        |
 | 88   | Implemente um programa Java que leia uma string e imprima todas as suas permutações. | Manipulação de strings em Java. |        |

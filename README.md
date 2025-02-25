@@ -89,7 +89,7 @@
 | 85   | Implemente um programa Java que leia um array de números e imprima os elementos que aparecem mais de uma vez. | Estruturas de dados em Java. |Concluído✅  |
 | 86   | Escreva um programa Java que leia uma lista de números e calcule a mediana. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 87   | Crie um programa Java que leia uma matriz e calcule a soma dos elementos da diagonal principal e da secundária. | Manipulação de matrizes em Java. |Concluído✅  |
-| 88   | Implemente um programa Java que leia uma string e imprima todas as suas permutações. | Manipulação de strings em Java. |        |
+| 88   | Implemente um programa Java que leia uma string e imprima todas as suas permutações. | Manipulação de strings em Java.  |Concluído✅  |
 | 89   | Escreva um programa Java que leia uma lista de números e remova todos os duplicados. | Manipulação de listas em Java. |        |
 | 90   | Crie um programa Java que leia um array de números e imprima os números em ordem crescente e decrescente. | Algoritmos de ordenação em Java. |        |
 | 91   | Implemente um programa Java que leia um número e imprima os divisores do número. | Algoritmos matemáticos em Java. |        |

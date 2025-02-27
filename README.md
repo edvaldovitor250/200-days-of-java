@@ -91,7 +91,7 @@
 | 87   | Crie um programa Java que leia uma matriz e calcule a soma dos elementos da diagonal principal e da secundária. | Manipulação de matrizes em Java. |Concluído✅  |
 | 88   | Implemente um programa Java que leia uma string e imprima todas as suas permutações. | Manipulação de strings em Java.  |Concluído✅  |
 | 89   | Escreva um programa Java que leia uma lista de números e remova todos os duplicados. | Manipulação de listas em Java. |Concluído✅  |
-| 90   | Crie um programa Java que leia um array de números e imprima os números em ordem crescente e decrescente. | Algoritmos de ordenação em Java. |        |
+| 90   | Crie um programa Java que leia um array de números e imprima os números em ordem crescente e decrescente. | Algoritmos de ordenação em Java. |Concluído✅  |
 | 91   | Implemente um programa Java que leia um número e imprima os divisores do número. | Algoritmos matemáticos em Java. |        |
 | 92   | Escreva um programa Java que leia um texto e imprima a frequência de cada caractere. | Manipulação de strings em Java. |        |
 | 93   | Crie um programa Java que leia uma matriz e calcule o determinante. | Algoritmos matemáticos em Java. |        |

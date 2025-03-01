@@ -93,7 +93,7 @@
 | 89   | Escreva um programa Java que leia uma lista de números e remova todos os duplicados. | Manipulação de listas em Java. |Concluído✅  |
 | 90   | Crie um programa Java que leia um array de números e imprima os números em ordem crescente e decrescente. | Algoritmos de ordenação em Java. |Concluído✅  |
 | 91   | Implemente um programa Java que leia um número e imprima os divisores do número. | Algoritmos matemáticos em Java. |Concluído✅  |
-| 92   | Escreva um programa Java que leia um texto e imprima a frequência de cada caractere. | Manipulação de strings em Java. |        |
+| 92   | Escreva um programa Java que leia um texto e imprima a frequência de cada caractere. | Manipulação de strings em Java. |Concluído✅  |
 | 93   | Crie um programa Java que leia uma matriz e calcule o determinante. | Algoritmos matemáticos em Java. |        |
 | 94   | Implemente um programa Java que leia um número e converta para sua representação binária, octal e hexadecimal. | Conversões em Java. |        |
 | 95   | Escreva um programa Java que leia um array de números e imprima os números em ordem aleatória. | Geração de números aleatórios em Java. |        |

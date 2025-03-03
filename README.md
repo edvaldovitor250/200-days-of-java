@@ -95,7 +95,7 @@
 | 91   | Implemente um programa Java que leia um número e imprima os divisores do número. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 92   | Escreva um programa Java que leia um texto e imprima a frequência de cada caractere. | Manipulação de strings em Java. |Concluído✅  |
 | 93   | Crie um programa Java que leia uma matriz e calcule o determinante. | Algoritmos matemáticos em Java. |Concluído✅|
-| 94   | Implemente um programa Java que leia um número e converta para sua representação binária, octal e hexadecimal. | Conversões em Java. |        |
+| 94   | Implemente um programa Java que leia um número e converta para sua representação binária, octal e hexadecimal. | Conversões em Java. |Concluído✅  |
 | 95   | Escreva um programa Java que leia um array de números e imprima os números em ordem aleatória. | Geração de números aleatórios em Java. |        |
 | 96   | Crie um programa Java que leia uma lista de palavras e imprima as palavras que são palíndromos. | Manipulação de strings em Java. |        |
 | 97   | Implemente um programa Java que leia uma lista de números e calcule o produto de todos os números. | Algoritmos matemáticos em Java. |        |

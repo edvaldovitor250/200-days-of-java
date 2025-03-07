@@ -99,7 +99,7 @@
 | 95   | Escreva um programa Java que leia um array de números e imprima os números em ordem aleatória. | Geração de números aleatórios em Java. |Concluído✅  |
 | 96   | Crie um programa Java que leia uma lista de palavras e imprima as palavras que são palíndromos. | Manipulação de strings em Java. |Concluído✅  |
 | 97   | Implemente um programa Java que leia uma lista de números e calcule o produto de todos os números. | Algoritmos matemáticos em Java. |Concluído✅  |
-| 98   | Escreva um programa Java que leia uma lista de strings e imprima as strings em ordem inversa. | Manipulação de listas em Java. |        |
+| 98   | Escreva um programa Java que leia uma lista de strings e imprima as strings em ordem inversa. | Manipulação de listas em Java. |Concluído✅  |
 | 99   | Crie um programa Java que leia uma matriz e imprima apenas os elementos nas bordas. | Manipulação de matrizes em Java. |        |
 | 100  | Implemente um programa Java que leia uma lista de números e calcule o quadrado de cada número. | Operações matemáticas em Java. |        |
 | 101  | Escreva um programa Java que leia uma lista de palavras e organize em ordem alfabética reversa. | Manipulação de strings em Java. |        |

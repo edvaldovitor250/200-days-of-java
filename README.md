@@ -105,7 +105,7 @@
 | 101  | Escreva um programa Java que leia uma lista de palavras e organize em ordem alfabética reversa. | Manipulação de strings em Java. |Concluído✅  |
 | 102  | Crie um programa Java que leia um número e imprima a tabuada desse número. | Estruturas condicionais em Java. |Concluído✅  |
 | 103  | Implemente um programa Java que leia uma matriz e imprima a matriz rotacionada 90 graus. | Manipulação de matrizes em Java. |Concluído✅  |
-| 104  | Escreva um programa Java que leia uma lista de números e calcule o máximo divisor comum (MDC). | Algoritmos matemáticos em Java. |        |
+| 104  | Escreva um programa Java que leia uma lista de números e calcule o máximo divisor comum (MDC). | Algoritmos matemáticos em Java. |Concluído✅  |
 | 105  | Crie um programa Java que leia um texto e remova todos os caracteres não alfabéticos. | Manipulação de strings em Java. |        |
 | 106  | Implemente um programa Java que leia uma matriz e calcule a soma dos elementos de cada linha. | Manipulação de matrizes em Java. |        |
 | 107  | Escreva um programa Java que leia um número e imprima todos os números perfeitos menores que ele. | Algoritmos matemáticos em Java. |        |

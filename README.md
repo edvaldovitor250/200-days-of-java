@@ -108,7 +108,7 @@
 | 104  | Escreva um programa Java que leia uma lista de números e calcule o máximo divisor comum (MDC). | Algoritmos matemáticos em Java. |Concluído✅  |
 | 105  | Crie um programa Java que leia um texto e remova todos os caracteres não alfabéticos. | Manipulação de strings em Java. |Concluído✅  |
 | 106  | Implemente um programa Java que leia uma matriz e calcule a soma dos elementos de cada linha. | Manipulação de matrizes em Java. |Concluído✅  |
-| 107  | Escreva um programa Java que leia um número e imprima todos os números perfeitos menores que ele. | Algoritmos matemáticos em Java. |        |
+| 107  | Escreva um programa Java que leia um número e imprima todos os números perfeitos menores que ele. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 108  | Crie um programa Java que leia uma string e conte o número de ocorrências de cada palavra. | Manipulação de strings em Java. |        |
 | 109  | Implemente um programa Java que leia dois arrays e imprima a união dos dois. | Estruturas de dados em Java. |        |
 | 110  | Escreva um programa Java que leia uma lista de números e encontre os três menores números. | Estruturas de dados em Java. |        |

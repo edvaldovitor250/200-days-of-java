@@ -112,7 +112,7 @@
 | 108  | Crie um programa Java que leia uma string e conte o número de ocorrências de cada palavra. | Manipulação de strings em Java. |Concluído✅  |
 | 109  | Implemente um programa Java que leia dois arrays e imprima a união dos dois. | Estruturas de dados em Java. |Concluído✅  |
 | 110  | Escreva um programa Java que leia uma lista de números e encontre os três menores números. | Estruturas de dados em Java. |Concluído✅  |
-| 111  | Crie um programa Java que leia um texto e substitua todas as vogais por asteriscos (*). | Manipulação de strings em Java. |        |
+| 111  | Crie um programa Java que leia um texto e substitua todas as vogais por asteriscos (*). | Manipulação de strings em Java. |Concluído✅  |
 | 112  | Implemente um programa Java que leia uma matriz e multiplique todos os elementos por um escalar. | Manipulação de matrizes em Java. |        |
 | 113  | Escreva um programa Java que leia uma lista de palavras e imprima apenas as palavras únicas. | Manipulação de listas em Java. |        |
 | 114  | Crie um programa Java que leia um número e imprima todos os seus números amigos. | Algoritmos matemáticos em Java. |        |

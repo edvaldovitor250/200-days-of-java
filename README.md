@@ -115,7 +115,7 @@
 | 111  | Crie um programa Java que leia um texto e substitua todas as vogais por asteriscos (*). | Manipulação de strings em Java. |Concluído✅  |
 | 112  | Implemente um programa Java que leia uma matriz e multiplique todos os elementos por um escalar. | Manipulação de matrizes em Java. |Concluído✅  |
 | 113  | Escreva um programa Java que leia uma lista de palavras e imprima apenas as palavras únicas. | Manipulação de listas em Java. |Concluído✅  |
-| 114  | Crie um programa Java que leia um número e imprima todos os seus números amigos. | Algoritmos matemáticos em Java. |        |
+| 114  | Crie um programa Java que leia um número e imprima todos os seus números amigos. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 115  | Implemente um programa Java que leia uma lista de números e calcule o maior produto entre dois números consecutivos. | Estruturas de dados em Java. |        |
 | 116  | Escreva um programa Java que leia uma string e imprima apenas os caracteres que não se repetem. | Manipulação de strings em Java. |        |
 | 117  | Crie um programa Java que leia uma matriz e calcule a soma de todos os elementos acima e abaixo da diagonal principal. | Manipulação de matrizes em Java. |        |

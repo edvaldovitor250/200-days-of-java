@@ -118,7 +118,7 @@
 | 114  | Crie um programa Java que leia um número e imprima todos os seus números amigos. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 115  | Implemente um programa Java que leia uma lista de números e calcule o maior produto entre dois números consecutivos. | Estruturas de dados em Java. |Concluído✅  |
 | 116  | Escreva um programa Java que leia uma string e imprima apenas os caracteres que não se repetem. | Manipulação de strings em Java. |Concluído✅  |
-| 117  | Crie um programa Java que leia uma matriz e calcule a soma de todos os elementos acima e abaixo da diagonal principal. | Manipulação de matrizes em Java. |        |
+| 117  | Crie um programa Java que leia uma matriz e calcule a soma de todos os elementos acima e abaixo da diagonal principal. | Manipulação de matrizes em Java.|Concluído✅  |
 | 118  | Implemente um programa Java que leia uma lista de números e calcule o menor intervalo entre dois números consecutivos. | Algoritmos matemáticos em Java. |        |
 | 119  | Escreva um programa Java que leia uma string e verifique se ela é uma senha forte. | Algoritmos de verificação em Java. |        |
 | 120  | Crie um programa Java que leia uma lista de palavras e organize por comprimento crescente. | Manipulação de strings em Java. |        |

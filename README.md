@@ -124,7 +124,7 @@
 | 120  | Crie um programa Java que leia uma lista de palavras e organize por comprimento crescente. | Manipulação de strings em Java. |Concluído✅  |
 | 121  | Implemente um programa Java que leia uma matriz e calcule o número de elementos positivos, negativos e zeros. | Manipulação de matrizes em Java. |Concluído✅  |
 | 122  | Escreva um programa Java que leia uma lista de números e imprima os números em ordem alternada (crescente e decrescente). | Algoritmos de ordenação em Java. |Concluído✅  |
-| 123  | Crie um programa Java que leia uma lista de números e agrupe os números pares e ímpares em sublistas. | Estruturas de dados em Java. |        |
+| 123  | Crie um programa Java que leia uma lista de números e agrupe os números pares e ímpares em sublistas. | Estruturas de dados em Java.  |Concluído✅  |
 | 124  | Implemente um programa Java que leia um texto e imprima a palavra mais curta. | Manipulação de strings em Java. |        |
 | 125  | Escreva um programa Java que leia uma lista de números e calcule o número de pares que têm soma igual a um valor específico. | Algoritmos de busca em Java. |        |
 | 126  | Crie um programa Java que leia um texto e remova todas as palavras duplicadas. | Manipulação de strings em Java. |        |

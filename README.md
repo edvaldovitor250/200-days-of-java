@@ -127,7 +127,7 @@
 | 123  | Crie um programa Java que leia uma lista de números e agrupe os números pares e ímpares em sublistas. | Estruturas de dados em Java.  |Concluído✅  |
 | 124  | Implemente um programa Java que leia um texto e imprima a palavra mais curta. | Manipulação de strings em Java. |Concluído✅  |
 | 125  | Escreva um programa Java que leia uma lista de números e calcule o número de pares que têm soma igual a um valor específico. | Algoritmos de busca em Java.|Concluído✅  |
-| 126  | Crie um programa Java que leia um texto e remova todas as palavras duplicadas. | Manipulação de strings em Java. |        |
+| 126  | Crie um programa Java que leia um texto e remova todas as palavras duplicadas. | Manipulação de strings em Java. |Concluído✅  |
 | 127  | Implemente um programa Java que leia uma matriz e imprima os elementos na forma de uma espiral. | Manipulação de matrizes em Java. |        |
 | 128  | Escreva um programa Java que leia uma lista de números e verifique se é possível formar um triângulo com três desses números. | Algoritmos matemáticos em Java. |        |
 | 129  | Crie um programa Java que leia uma lista de palavras e imprima as palavras que têm todas as vogais. | Manipulação de strings em Java. |        |

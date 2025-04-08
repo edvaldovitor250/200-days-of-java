@@ -131,7 +131,7 @@
 | 127  | Implemente um programa Java que leia uma matriz e imprima os elementos na forma de uma espiral. | Manipulação de matrizes em Java.|Concluído✅  |
 | 128  | Escreva um programa Java que leia uma lista de números e verifique se é possível formar um triângulo com três desses números. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 129  | Crie um programa Java que leia uma lista de palavras e imprima as palavras que têm todas as vogais. | Manipulação de strings em Java. |Concluído✅  |
-| 130  | Implemente um programa Java que leia um número e imprima os números de Fibonacci menores ou iguais a ele. | Algoritmos matemáticos em Java. |        |
+| 130  | Implemente um programa Java que leia um número e imprima os números de Fibonacci menores ou iguais a ele. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 131  | Escreva um programa Java que leia um texto e imprima todas as palavras em maiúsculas. | Manipulação de strings em Java. |        |
 | 132  | Crie um programa Java que leia duas matrizes e calcule a soma elemento a elemento. | Manipulação de matrizes em Java. |        |
 | 133  | Implemente um programa Java que leia uma lista de números e calcule a soma dos quadrados dos números pares. | Estruturas condicionais em Java. |        |

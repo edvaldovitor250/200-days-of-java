@@ -1,0 +1,23 @@
+# Day 131
+
+## Desafio:
+
+Escreva um programa Java que leia um texto e imprima todas as palavras em maiúsculas.	
+**Resultado:**
+
+```java
+
+public class Day131{
+
+    public static void main(String[] args) {
+        String text = "Hello World!";
+        tudoMaiusculas(text);
+    }
+
+    public static void tudoMaiusculas(String text){
+        String upperString = text.toUpperCase();
+        System.out.println(upperString);
+    }
+
+
+}

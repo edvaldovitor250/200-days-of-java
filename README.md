@@ -132,7 +132,7 @@
 | 128  | Escreva um programa Java que leia uma lista de números e verifique se é possível formar um triângulo com três desses números. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 129  | Crie um programa Java que leia uma lista de palavras e imprima as palavras que têm todas as vogais. | Manipulação de strings em Java. |Concluído✅  |
 | 130  | Implemente um programa Java que leia um número e imprima os números de Fibonacci menores ou iguais a ele. | Algoritmos matemáticos em Java. |Concluído✅  |
-| 131  | Escreva um programa Java que leia um texto e imprima todas as palavras em maiúsculas. | Manipulação de strings em Java. |        |
+| 131  | Escreva um programa Java que leia um texto e imprima todas as palavras em maiúsculas. | Manipulação de strings em Java. |Concluído✅  |
 | 132  | Crie um programa Java que leia duas matrizes e calcule a soma elemento a elemento. | Manipulação de matrizes em Java. |        |
 | 133  | Implemente um programa Java que leia uma lista de números e calcule a soma dos quadrados dos números pares. | Estruturas condicionais em Java. |        |
 | 134  | Escreva um programa Java que leia um texto e conte quantas palavras começam e terminam com a mesma letra. | Manipulação de strings em Java. |        |

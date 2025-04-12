@@ -134,7 +134,7 @@
 | 130  | Implemente um programa Java que leia um número e imprima os números de Fibonacci menores ou iguais a ele. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 131  | Escreva um programa Java que leia um texto e imprima todas as palavras em maiúsculas. | Manipulação de strings em Java. |Concluído✅  |
 | 132  | Crie um programa Java que leia duas matrizes e calcule a soma elemento a elemento. | Manipulação de matrizes em Java. |Concluído✅  |
-| 133  | Implemente um programa Java que leia uma lista de números e calcule a soma dos quadrados dos números pares. | Estruturas condicionais em Java. |        |
+| 133  | Implemente um programa Java que leia uma lista de números e calcule a soma dos quadrados dos números pares. | Estruturas condicionais em Java. |Concluído✅  |
 | 134  | Escreva um programa Java que leia um texto e conte quantas palavras começam e terminam com a mesma letra. | Manipulação de strings em Java. |        |
 | 135  | Crie um programa Java que leia um número e imprima a sua fatorial. | Algoritmos matemáticos em Java. |        |
 | 136  | Implemente um programa Java que leia uma matriz e imprima os elementos da diagonal principal em ordem inversa. | Manipulação de matrizes em Java. |        |

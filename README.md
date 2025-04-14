@@ -137,7 +137,7 @@
 | 133  | Implemente um programa Java que leia uma lista de números e calcule a soma dos quadrados dos números pares. | Estruturas condicionais em Java. |Concluído✅  |
 | 134  | Escreva um programa Java que leia um texto e conte quantas palavras começam e terminam com a mesma letra. | Manipulação de strings em Java.  |Concluído✅  |
 | 135  | Crie um programa Java que leia um número e imprima a sua fatorial. | Algoritmos matemáticos em Java. |Concluído✅  |
-| 136  | Implemente um programa Java que leia uma matriz e imprima os elementos da diagonal principal em ordem inversa. | Manipulação de matrizes em Java. |        |
+| 136  | Implemente um programa Java que leia uma matriz e imprima os elementos da diagonal principal em ordem inversa. | Manipulação de matrizes em Java. |Concluído✅  |
 | 137  | Escreva um programa Java que leia um array e verifique se é um array monotônico. | Estruturas de dados em Java. |        |
 | 138  | Crie um programa Java que leia uma lista de números e remova todos os números que aparecem apenas uma vez. | Estruturas de dados em Java. |        |
 | 139  | Implemente um programa Java que leia uma string e imprima a frequência de cada vogal. | Manipulação de strings em Java. |        |

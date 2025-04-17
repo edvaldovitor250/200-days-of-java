@@ -140,7 +140,7 @@
 | 136  | Implemente um programa Java que leia uma matriz e imprima os elementos da diagonal principal em ordem inversa. | Manipulação de matrizes em Java. |Concluído✅  |
 | 137  | Escreva um programa Java que leia um array e verifique se é um array monotônico. | Estruturas de dados em Java. |Concluído✅  |
 | 138  | Crie um programa Java que leia uma lista de números e remova todos os números que aparecem apenas uma vez. | Estruturas de dados em Java. |Concluído✅  |
-| 139  | Implemente um programa Java que leia uma string e imprima a frequência de cada vogal. | Manipulação de strings em Java. |        |
+| 139  | Implemente um programa Java que leia uma string e imprima a frequência de cada vogal. | Manipulação de strings em Java. |Concluído✅  |
 | 140  | Escreva um programa Java que leia um número e imprima se ele é um número armstrong. | Algoritmos matemáticos em Java. |        |
 | 141  | Crie um programa Java que leia uma lista de palavras e encontre a maior cadeia de palavras que podem ser concatenadas. | Manipulação de strings em Java. |        |
 | 142  | Implemente um programa Java que leia duas matrizes e calcule o produto matricial. | Manipulação de matrizes em Java. |        |

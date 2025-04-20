@@ -142,7 +142,7 @@
 | 138  | Crie um programa Java que leia uma lista de números e remova todos os números que aparecem apenas uma vez. | Estruturas de dados em Java. |Concluído✅  |
 | 139  | Implemente um programa Java que leia uma string e imprima a frequência de cada vogal. | Manipulação de strings em Java. |Concluído✅  |
 | 140  | Escreva um programa Java que leia um número e imprima se ele é um número armstrong. | Algoritmos matemáticos em Java.  |Concluído✅  |
-| 141  | Crie um programa Java que leia uma lista de palavras e encontre a maior cadeia de palavras que podem ser concatenadas. | Manipulação de strings em Java. |        |
+| 141  | Crie um programa Java que leia uma lista de palavras e encontre a maior cadeia de palavras que podem ser concatenadas. | Manipulação de strings em Java. |Concluído✅  |
 | 142  | Implemente um programa Java que leia duas matrizes e calcule o produto matricial. | Manipulação de matrizes em Java. |        |
 | 143  | Escreva um programa Java que leia um texto e imprima a palavra mais frequente. | Manipulação de strings em Java. |        |
 | 144  | Crie um programa Java que leia uma lista de números e determine o comprimento da maior sequência crescente. | Algoritmos em Java. |        |

@@ -144,7 +144,7 @@
 | 140  | Escreva um programa Java que leia um número e imprima se ele é um número armstrong. | Algoritmos matemáticos em Java.  |Concluído✅  |
 | 141  | Crie um programa Java que leia uma lista de palavras e encontre a maior cadeia de palavras que podem ser concatenadas. | Manipulação de strings em Java. |Concluído✅  |
 | 142  | Implemente um programa Java que leia duas matrizes e calcule o produto matricial. | Manipulação de matrizes em Java.|Concluído✅  |
-| 143  | Escreva um programa Java que leia um texto e imprima a palavra mais frequente. | Manipulação de strings em Java. |        |
+| 143  | Escreva um programa Java que leia um texto e imprima a palavra mais frequente. | Manipulação de strings em Java. |Concluído✅  |
 | 144  | Crie um programa Java que leia uma lista de números e determine o comprimento da maior sequência crescente. | Algoritmos em Java. |        |
 | 145  | Implemente um programa Java que leia um número e imprima todos os números de Harshad menores que ele. | Algoritmos matemáticos em Java. |        |
 | 146  | Escreva um programa Java que leia uma matriz e imprima os elementos em formato zigue-zague. | Manipulação de matrizes em Java. |        |

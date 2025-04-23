@@ -146,7 +146,7 @@
 | 142  | Implemente um programa Java que leia duas matrizes e calcule o produto matricial. | Manipulação de matrizes em Java.|Concluído✅  |
 | 143  | Escreva um programa Java que leia um texto e imprima a palavra mais frequente. | Manipulação de strings em Java. |Concluído✅  |
 | 144  | Crie um programa Java que leia uma lista de números e determine o comprimento da maior sequência crescente. | Algoritmos em Java. |Concluído✅  |
-| 145  | Implemente um programa Java que leia um número e imprima todos os números de Harshad menores que ele. | Algoritmos matemáticos em Java. |        |
+| 145  | Implemente um programa Java que leia um número e imprima todos os números de Harshad menores que ele. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 146  | Escreva um programa Java que leia uma matriz e imprima os elementos em formato zigue-zague. | Manipulação de matrizes em Java. |        |
 | 147  | Crie um programa Java que leia um array de números e verifique se ele é um heap. | Estruturas de dados em Java. |        |
 | 148  | Implemente um programa Java que leia uma lista de números e encontre o maior produto de três números consecutivos. | Estruturas de dados em Java. |        |

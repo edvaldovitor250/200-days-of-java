@@ -148,7 +148,7 @@
 | 144  | Crie um programa Java que leia uma lista de números e determine o comprimento da maior sequência crescente. | Algoritmos em Java. |Concluído✅  |
 | 145  | Implemente um programa Java que leia um número e imprima todos os números de Harshad menores que ele. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 146  | Escreva um programa Java que leia uma matriz e imprima os elementos em formato zigue-zague. | Manipulação de matrizes em Java.  |Concluído✅  |
-| 147  | Crie um programa Java que leia um array de números e verifique se ele é um heap. | Estruturas de dados em Java. |        |
+| 147  | Crie um programa Java que leia um array de números e verifique se ele é um heap. | Estruturas de dados em Java. |Concluído✅  |
 | 148  | Implemente um programa Java que leia uma lista de números e encontre o maior produto de três números consecutivos. | Estruturas de dados em Java. |        |
 | 149  | Escreva um programa Java que leia um texto e conte o número de frases. | Manipulação de strings em Java. |        |
 | 150  | Crie um programa Java que leia duas listas e imprima os elementos que aparecem em ambas. | Estruturas de dados em Java. |        |

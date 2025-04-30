@@ -152,7 +152,7 @@
 | 148  | Implemente um programa Java que leia uma lista de números e encontre o maior produto de três números consecutivos. | Estruturas de dados em Java. |Concluído✅  |
 | 149  | Escreva um programa Java que leia um texto e conte o número de frases. | Manipulação de strings em Java. |Concluído✅  |
 | 150  | Crie um programa Java que leia duas listas e imprima os elementos que aparecem em ambas. | Estruturas de dados em Java. |Concluído✅  |
-| 151  | Implemente um programa Java que leia uma lista de palavras e imprima as palavras que podem ser formadas com letras de uma linha do teclado. | Manipulação de strings em Java. |        |
+| 151  | Implemente um programa Java que leia uma lista de palavras e imprima as palavras que podem ser formadas com letras de uma linha do teclado. | Manipulação de strings em Java. |Concluído✅  |
 | 152  | Escreva um programa Java que leia uma lista de números e verifique se há uma subsequência crescente de tamanho K. | Estruturas de dados em Java. |        |
 | 153  | Crie um programa Java que leia um número e imprima sua representação em palavras. | Algoritmos de conversão em Java. |        |
 | 154  | Implemente um programa Java que leia uma matriz e verifique se ela é uma matriz de identidade. | Manipulação de matrizes em Java. |        |

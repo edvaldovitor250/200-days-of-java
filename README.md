@@ -154,7 +154,7 @@
 | 150  | Crie um programa Java que leia duas listas e imprima os elementos que aparecem em ambas. | Estruturas de dados em Java. |Concluído✅  |
 | 151  | Implemente um programa Java que leia uma lista de palavras e imprima as palavras que podem ser formadas com letras de uma linha do teclado. | Manipulação de strings em Java. |Concluído✅  |
 | 152  | Escreva um programa Java que leia uma lista de números e verifique se há uma subsequência crescente de tamanho K. | Estruturas de dados em Java. |Concluído✅  |
-| 153  | Crie um programa Java que leia um número e imprima sua representação em palavras. | Algoritmos de conversão em Java. |        |
+| 153  | Crie um programa Java que leia um número e imprima sua representação em palavras. | Algoritmos de conversão em Java. |Concluído✅  |
 | 154  | Implemente um programa Java que leia uma matriz e verifique se ela é uma matriz de identidade. | Manipulação de matrizes em Java. |        |
 | 155  | Escreva um programa Java que leia uma lista de números e remova todos os múltiplos de um número específico. | Estruturas de dados em Java. |        |
 | 156  | Crie um programa Java que leia um texto e conte o número de sentenças, palavras e caracteres. | Manipulação de strings em Java. |        |

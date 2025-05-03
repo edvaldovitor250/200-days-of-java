@@ -156,7 +156,7 @@
 | 152  | Escreva um programa Java que leia uma lista de números e verifique se há uma subsequência crescente de tamanho K. | Estruturas de dados em Java. |Concluído✅  |
 | 153  | Crie um programa Java que leia um número e imprima sua representação em palavras. | Algoritmos de conversão em Java. |Concluído✅  |
 | 154  | Implemente um programa Java que leia uma matriz e verifique se ela é uma matriz de identidade. | Manipulação de matrizes em Java. |Concluído✅  |
-| 155  | Escreva um programa Java que leia uma lista de números e remova todos os múltiplos de um número específico. | Estruturas de dados em Java. |        |
+| 155  | Escreva um programa Java que leia uma lista de números e remova todos os múltiplos de um número específico. | Estruturas de dados em Java. |Concluído✅  |
 | 156  | Crie um programa Java que leia um texto e conte o número de sentenças, palavras e caracteres. | Manipulação de strings em Java. |        |
 | 157  | Implemente um programa Java que leia duas listas de números e imprima a interseção entre elas. | Estruturas de dados em Java. |        |
 | 158  | Escreva um programa Java que leia um array de números e verifique se ele é um array circularmente ordenado. | Estruturas de dados em Java. |        |

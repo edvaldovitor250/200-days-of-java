@@ -161,7 +161,7 @@
 | 157  | Implemente um programa Java que leia duas listas de números e imprima a interseção entre elas. | Estruturas de dados em Java.|Concluído✅  |
 | 158  | Escreva um programa Java que leia um array de números e verifique se ele é um array circularmente ordenado. | Estruturas de dados em Java. |Concluído✅  |
 | 159  | Crie um programa Java que leia uma lista de palavras e imprima as palavras palíndromas. | Manipulação de strings em Java. |Concluído✅  |
-| 160  | Implemente um programa Java que leia um array de números e determine o número de inversões no array. | Algoritmos de ordenação em Java. |        |
+| 160  | Implemente um programa Java que leia um array de números e determine o número de inversões no array. | Algoritmos de ordenação em Java. |Concluído✅  |
 | 161  | Escreva um programa Java que leia um texto e imprima o comprimento da menor e da maior palavra. | Manipulação de strings em Java. |        |
 | 162  | Crie um programa Java que leia uma matriz e determine se ela é uma matriz de magic square. | Algoritmos em Java. |        |
 | 163  | Implemente um programa Java que leia um array de números e imprima os números que aparecem mais de uma vez. | Estruturas de dados em Java. |        |

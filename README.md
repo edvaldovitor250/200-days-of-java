@@ -163,7 +163,7 @@
 | 159  | Crie um programa Java que leia uma lista de palavras e imprima as palavras palíndromas. | Manipulação de strings em Java. |Concluído✅  |
 | 160  | Implemente um programa Java que leia um array de números e determine o número de inversões no array. | Algoritmos de ordenação em Java. |Concluído✅  |
 | 161  | Escreva um programa Java que leia um texto e imprima o comprimento da menor e da maior palavra. | Manipulação de strings em Java. |Concluído✅  |
-| 162  | Crie um programa Java que leia uma matriz e determine se ela é uma matriz de magic square. | Algoritmos em Java. |        |
+| 162  | Crie um programa Java que leia uma matriz e determine se ela é uma matriz de magic square. | Algoritmos em Java. |Concluído✅  |
 | 163  | Implemente um programa Java que leia um array de números e imprima os números que aparecem mais de uma vez. | Estruturas de dados em Java. |        |
 | 164  | Escreva um programa Java que leia uma lista de números e calcule o produto dos números primos. | Algoritmos matemáticos em Java. |        |
 | 165  | Crie um programa Java que leia um texto e remova todas as palavras que aparecem apenas uma vez. | Manipulação de strings em Java. |        |

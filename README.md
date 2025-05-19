@@ -171,7 +171,7 @@
 | 167  | Escreva um programa Java que leia uma lista de números e calcule o valor do maior subarray com soma máxima. | Algoritmos de otimização em Java. |Concluído✅  |
 | 168  | Crie um programa Java que leia uma lista de palavras e imprima a maior cadeia de palavras que podem ser formadas adicionando letras. | Manipulação de strings em Java. |Concluído✅  |
 | 169  | Implemente um programa Java que leia um texto e verifique se ele é uma tautologia. | Algoritmos em Java. |Concluído✅  |
-| 170  | Escreva um programa Java que leia uma matriz e determine se ela é uma matriz diagonalmente dominante. | Manipulação de matrizes em Java. |        |
+| 170  | Escreva um programa Java que leia uma matriz e determine se ela é uma matriz diagonalmente dominante. | Manipulação de matrizes em Java. |Concluído✅  |
 | 171  | Crie um programa Java que leia uma lista de números e imprima a sequência de maior comprimento onde todos os elementos são iguais. | Estruturas de dados em Java. |        |
 | 172  | Implemente um programa Java que leia uma lista de números e determine se eles podem formar uma progressão aritmética. | Algoritmos matemáticos em Java. |        |
 | 173  | Escreva um programa Java que leia uma lista de números e remova os números que não são múltiplos de um determinado número. | Estruturas de dados em Java. |        |

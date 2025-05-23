@@ -175,7 +175,7 @@
 | 171  | Crie um programa Java que leia uma lista de números e imprima a sequência de maior comprimento onde todos os elementos são iguais. | Estruturas de dados em Java.  |Concluído✅  |
 | 172  | Implemente um programa Java que leia uma lista de números e determine se eles podem formar uma progressão aritmética. | Algoritmos matemáticos em Java. |Concluído✅  |
 | 173  | Escreva um programa Java que leia uma lista de números e remova os números que não são múltiplos de um determinado número. | Estruturas de dados em Java. |Concluído✅  |
-| 174  | Crie um programa Java que leia um texto e imprima as palavras mais longas. | Manipulação de strings em Java. |        |
+| 174  | Crie um programa Java que leia um texto e imprima as palavras mais longas. | Manipulação de strings em Java. |Concluído✅  |
 | 175  | Implemente um programa Java que leia uma matriz e calcule a soma dos elementos das bordas. | Manipulação de matrizes em Java. |        |
 | 176  | Escreva um programa Java que leia uma lista de números e verifique se é possível formar um quadrado mágico com os números. | Algoritmos em Java. |        |
 | 177  | Crie um programa Java que leia duas listas de números e imprima a união ordenada entre elas. | Estruturas de dados em Java. |        |

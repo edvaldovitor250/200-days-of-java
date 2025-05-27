@@ -179,7 +179,7 @@
 | 175  | Implemente um programa Java que leia uma matriz e calcule a soma dos elementos das bordas. | Manipulação de matrizes em Java. |Concluído✅  |
 | 176  | Escreva um programa Java que leia uma lista de números e verifique se é possível formar um quadrado mágico com os números. | Algoritmos em Java. |Concluído✅  |
 | 177  | Crie um programa Java que leia duas listas de números e imprima a união ordenada entre elas. | Estruturas de dados em Java. |Concluído✅  |
-| 178  | Implemente um programa Java que leia um texto e imprima a maior sequência de caracteres repetidos consecutivos. | Manipulação de strings em Java. |        |
+| 178  | Implemente um programa Java que leia um texto e imprima a maior sequência de caracteres repetidos consecutivos. | Manipulação de strings em Java. |Concluído✅  |
 | 179  | Escreva um programa Java que leia um array de números e remova os elementos duplicados. | Estruturas de dados em Java. |        |
 | 180  | Crie um programa Java que leia uma matriz e determine se ela é uma matriz simétrica. | Manipulação de matrizes em Java. |        |
 | 181  | Implemente um programa Java que leia um array de números e determine se ele é um array unimodal. | Estruturas de dados em Java. |        |

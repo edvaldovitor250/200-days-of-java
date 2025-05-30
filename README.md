@@ -182,7 +182,7 @@
 | 178  | Implemente um programa Java que leia um texto e imprima a maior sequência de caracteres repetidos consecutivos. | Manipulação de strings em Java. |Concluído✅  |
 | 179  | Escreva um programa Java que leia um array de números e remova os elementos duplicados. | Estruturas de dados em Java. |Concluído✅  |
 | 180  | Crie um programa Java que leia uma matriz e determine se ela é uma matriz simétrica. | Manipulação de matrizes em Java. |Concluído✅  |
-| 181  | Implemente um programa Java que leia um array de números e determine se ele é um array unimodal. | Estruturas de dados em Java. |        |
+| 181  | Implemente um programa Java que leia um array de números e determine se ele é um array unimodal. | Estruturas de dados em Java. |Concluído✅  |
 | 182  | Escreva um programa Java que leia uma lista de números e imprima o maior produto entre três números não consecutivos. | Algoritmos em Java. |        |
 | 183  | Crie um programa Java que leia uma lista de palavras e determine o maior palíndromo que pode ser formado concatenando palavras. | Manipulação de strings em Java. |        |
 | 184  | Implemente um programa Java que leia uma matriz e calcule a soma dos elementos em posições ímpares. | Manipulação de matrizes em Java. |        |

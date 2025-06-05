@@ -187,7 +187,7 @@
 | 183  | Crie um programa Java que leia uma lista de palavras e determine o maior palíndromo que pode ser formado concatenando palavras. | Manipulação de strings em Java. |Concluído✅  |
 | 184  | Implemente um programa Java que leia uma matriz e calcule a soma dos elementos em posições ímpares. | Manipulação de matrizes em Java. |Concluído✅  |
 | 185  | Escreva um programa Java que leia um texto e imprima as palavras em ordem alfabética inversa. | Manipulação de strings em Java. |Concluído✅  |
-| 186  | Crie um programa Java que leia uma lista de números e determine o menor produto de três números. | Algoritmos em Java. |        |
+| 186  | Crie um programa Java que leia uma lista de números e determine o menor produto de três números. | Algoritmos em Java. |Concluído✅  |
 | 187  | Implemente um programa Java que leia uma matriz e determine se ela é uma matriz triangular superior. | Manipulação de matrizes em Java. |        |
 | 188  | Escreva um programa Java que leia uma lista de números e imprima os números que são divisíveis por dois números distintos. | Estruturas de dados em Java. |        |
 | 189  | Crie um programa Java que leia um texto e imprima as palavras que aparecem em mais de uma linha. | Manipulação de strings em Java. |        |

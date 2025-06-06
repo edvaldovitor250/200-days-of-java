@@ -189,7 +189,7 @@
 | 185  | Escreva um programa Java que leia um texto e imprima as palavras em ordem alfabética inversa. | Manipulação de strings em Java. |Concluído✅  |
 | 186  | Crie um programa Java que leia uma lista de números e determine o menor produto de três números. | Algoritmos em Java. |Concluído✅  |
 | 187  | Implemente um programa Java que leia uma matriz e determine se ela é uma matriz triangular superior. | Manipulação de matrizes em Java. |Concluído✅  |
-| 188  | Escreva um programa Java que leia uma lista de números e imprima os números que são divisíveis por dois números distintos. | Estruturas de dados em Java. |        |
+| 188  | Escreva um programa Java que leia uma lista de números e imprima os números que são divisíveis por dois números distintos. | Estruturas de dados em Java. |Concluído✅  |
 | 189  | Crie um programa Java que leia um texto e imprima as palavras que aparecem em mais de uma linha. | Manipulação de strings em Java. |        |
 | 190  | Implemente um programa Java que leia uma matriz e determine o número de elementos iguais à média dos vizinhos. | Manipulação de matrizes em Java. |        |
 | 191  | Escreva um programa Java que leia um array de números e imprima as combinações de três números que somam zero. | Algoritmos matemáticos em Java. |        |

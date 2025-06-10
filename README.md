@@ -192,7 +192,7 @@
 | 188  | Escreva um programa Java que leia uma lista de números e imprima os números que são divisíveis por dois números distintos. | Estruturas de dados em Java. |Concluído✅  |
 | 189  | Crie um programa Java que leia um texto e imprima as palavras que aparecem em mais de uma linha. | Manipulação de strings em Java. |Concluído✅  |
 | 190  | Implemente um programa Java que leia uma matriz e determine o número de elementos iguais à média dos vizinhos. | Manipulação de matrizes em Java.  |Concluído✅  |
-| 191  | Escreva um programa Java que leia um array de números e imprima as combinações de três números que somam zero. | Algoritmos matemáticos em Java. |        |
+| 191  | Escreva um programa Java que leia um array de números e imprima as combinações de três números que somam zero. | Algoritmos matemáticos em Java.|Concluído✅  |
 | 192  | Crie um programa Java que leia uma lista de palavras e imprima as palavras que podem ser formadas com letras alternadas. | Manipulação de strings em Java. |        |
 | 193  | Implemente um programa Java que leia uma matriz e imprima os elementos na forma de um padrão em onda. | Manipulação de matrizes em Java. |        |
 | 194  | Escreva um programa Java que leia um texto e determine se ele é uma pangrama. | Manipulação de strings em Java. |        |

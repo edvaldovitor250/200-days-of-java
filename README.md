@@ -196,7 +196,7 @@
 | 192  | Crie um programa Java que leia uma lista de palavras e imprima as palavras que podem ser formadas com letras alternadas. | Manipulação de strings em Java. |Concluído✅  |
 | 193  | Implemente um programa Java que leia uma matriz e imprima os elementos na forma de um padrão em onda. | Manipulação de matrizes em Java.|Concluído✅  |
 | 194  | Escreva um programa Java que leia um texto e determine se ele é uma pangrama. | Manipulação de strings em Java.|Concluído✅  |
-| 195  | Crie um programa Java que leia um array de números e imprima os elementos que aparecem um número ímpar de vezes. | Estruturas de dados em Java. |        |
+| 195  | Crie um programa Java que leia um array de números e imprima os elementos que aparecem um número ímpar de vezes. | Estruturas de dados em Java. |Concluído✅  |
 | 196  | Implemente um programa Java que leia uma matriz e determine se ela é uma matriz escalonada por linhas. | Manipulação de matrizes em Java. |        |
 | 197  | Escreva um programa Java que leia um texto e remova todas as palavras que contêm números. | Manipulação de strings em Java. |        |
 | 198  | Crie um programa Java que leia um array de números e imprima o comprimento do menor subarray que contém todos os números únicos. | Estruturas de dados em Java. |        |
